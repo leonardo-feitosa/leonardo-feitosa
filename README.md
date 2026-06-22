@@ -38,7 +38,7 @@ Atualmente, estou aprimorando minhas habilidades no ecossistema de desenvolvimen
 ### Vamos nos conectar?
 
 * **LinkedIn:** [Leonardo Lopes](https://www.linkedin.com/in/leonardo-lopes-3a53652b4/)
-* **E-mail:** leonardofeitoza10@hotmail.com
+* **E-mail:** leonardofeitosa01@hotmail.com
 
 ---
 *“A melhor forma de prever o futuro é programá-lo.”*
