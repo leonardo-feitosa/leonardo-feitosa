@@ -5,7 +5,7 @@ Olá, eu sou o Leonardo Lopes!
 
 **Fortaleza, CE - Brasil** 
 
-Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** formado pela **Unifametro**. Sou um desenvolvedor focado em construir soluções eficientes, com forte base em lógica de programação, algoritmos e boas práticas de desenvolvimento de software.
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** formado pela **Unifametro**. Sou um desenvolvedor focado em construir soluções eficientes, com base em lógica de programação, algoritmos e boas práticas de desenvolvimento de software.
 
 Atualmente, estou aprimorando minhas habilidades no ecossistema de desenvolvimento de software, criando projetos práticos que unem um backend robusto a interfaces modernas e responsivas.
 
