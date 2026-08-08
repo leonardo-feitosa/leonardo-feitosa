@@ -37,7 +37,7 @@ Atualmente, estou aprimorando minhas habilidades no ecossistema de desenvolvimen
 
 ### Vamos nos conectar?
 
-* **LinkedIn:** [Leonardo Lopes](https://www.linkedin.com/in/leonardo-lopes-3a53652b4/)
+* **LinkedIn:** [Leonardo Lopes](https://www.linkedin.com/in/leonardo-lopes-backend/)
 * **E-mail:** leonardofeitosa01@hotmail.com
 
 ---
