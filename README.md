@@ -1,44 +1,112 @@
-# leonardo-feitosa
-Repositório especial do meu perfil pessoal e portfólio no GitHub.
+# Olá, eu sou Leonardo Lopes 👋
 
-Olá, eu sou o Leonardo Lopes! 
+📍 Fortaleza, CE - Brasil
 
-**Fortaleza, CE - Brasil** 
+Sou formado em **Análise e Desenvolvimento de Sistemas pela Unifametro** e estou direcionando minha carreira para **Desenvolvimento Back-end**, com foco em **C#, .NET, Java, SQL Server e APIs REST**.
 
-Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** formado pela **Unifametro**. Sou um desenvolvedor focado em construir soluções eficientes, com base em lógica de programação, algoritmos e boas práticas de desenvolvimento de software.
+Desenvolvo projetos próprios para aplicar na prática conceitos de **Programação Orientada a Objetos, banco de dados, regras de negócio, APIs, integração entre sistemas e controle de versão**.
 
-Atualmente, estou aprimorando minhas habilidades no ecossistema de desenvolvimento de software, criando projetos práticos que unem um backend robusto a interfaces modernas e responsivas.
-
----
-
-### Minhas Techs & Ferramentas
-
-**Backend & Lógica**
-* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend & Web**
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Banco de Dados & Versionamento**
-* ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Minha experiência profissional anterior em automação, eletrônica, redes e suporte técnico também contribuiu para desenvolver raciocínio lógico, capacidade analítica, troubleshooting e visão sistêmica.
 
 ---
 
-### 📈 O que estou desenvolvendo no momento?
-*  Aplicando conceitos de POO (Programação Orientada a Objetos) em projetos práticos.
-*  Construindo integrações de sistemas com o banco de dados SQL Server.
-*  Criando layouts web responsivos e modernos com foco em UX/UI limpos e eficientes.
+## 🛠️ Tecnologias
+
+### Backend
+
+- C#
+- .NET
+- Java
+- APIs REST
+- Programação Orientada a Objetos
+
+### Banco de Dados
+
+- SQL Server
+- SQL
+- Modelagem Relacional
+- DDL
+- DML
+- DQL
+
+### Ferramentas e Versionamento
+
+- Git
+- GitHub
+
+### Conhecimentos Web
+
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-### Vamos nos conectar?
+## 🚀 Projetos em Destaque
 
-* **LinkedIn:** [Leonardo Lopes](https://www.linkedin.com/in/leonardo-lopes-backend/)
-* **E-mail:** leonardofeitosa01@hotmail.com
+### Sistema de Cadastro de Pessoas
+**C# • ASP.NET • SQL Server • API Facial**
+
+Aplicação web para cadastro, consulta e gerenciamento de pessoas, com persistência em banco de dados e integração facial.
+
+🔗 [Ver projeto](https://github.com/leonardo-feitosa/cadastro-pessoas-web)
 
 ---
-*“A melhor forma de prever o futuro é programá-lo.”*
+
+### Sistema de Controle de Ponto Eletrônico
+**Java • SQL Server • HTML5 • CSS3 • JavaScript**
+
+Sistema para controle de ponto, cadastro de colaboradores, registro de jornadas e geração de informações administrativas.
+
+🔗 [Ver projeto](https://github.com/leonardo-feitosa/pontoeletronico-java)
+
+---
+
+### Sistema de Gerenciamento de Biblioteca
+**SQL Server • Modelagem de Dados • DDL • DML • DQL**
+
+Projeto de banco de dados envolvendo modelagem conceitual, lógica e física, scripts SQL, testes de integridade e regras de segurança.
+
+🔗 [Ver projeto](https://github.com/leonardo-feitosa/sistema-gerenciamento-biblioteca-db)
+
+---
+
+### Estudo de Migração para AWS
+**AWS • EC2 • RDS SQL Server • ALB • EFS • CloudWatch**
+
+Estudo de viabilidade e TCO para migração de infraestrutura on-premises para AWS, considerando arquitetura, disponibilidade e custos.
+
+🔗 [Ver projeto](https://github.com/leonardo-feitosa/projeto-migracao-aws-tco)
+
+---
+
+### Simulação de Rede Corporativa
+**Cisco Packet Tracer • TCP/IP • IPv4 • Roteamento**
+
+Simulação de infraestrutura corporativa Matriz-Filiais, envolvendo topologia, endereçamento e roteamento.
+
+🔗 [Ver projeto](https://github.com/leonardo-feitosa/projeto-redes-packet-tracer)
+
+---
+
+## 📚 Atualmente
+
+- Aprimorando conhecimentos em C# e .NET;
+- Desenvolvendo aplicações back-end;
+- Aplicando POO em projetos práticos;
+- Trabalhando com SQL Server e modelagem de dados;
+- Estudando desenvolvimento e integração de APIs REST;
+- Evoluindo meus projetos e documentação no GitHub.
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco minha **primeira oportunidade profissional como Desenvolvedor Back-end Júnior**, com foco em **C#/.NET ou Java**.
+
+---
+
+## 📫 Contato
+
+- **LinkedIn:** [Leonardo Lopes](https://www.linkedin.com/in/leonardo-lopes-backend/)
+- **E-mail:** [leonardofeitosa01@hotmail.com](mailto:leonardofeitosa01@hotmail.com)
