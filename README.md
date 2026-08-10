@@ -6,7 +6,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas pela Unifametro** e esto
 
 Desenvolvo projetos próprios para aplicar na prática conceitos de **Programação Orientada a Objetos, banco de dados, regras de negócio, APIs, integração entre sistemas e controle de versão**.
 
-Minha experiência profissional anterior em automação, eletrônica, redes e suporte técnico também contribuiu para desenvolver raciocínio lógico, capacidade analítica, troubleshooting e visão sistêmica.
+Minha experiência profissional anterior em automação, eletrônica, redes e suporte técnico também contribuiu para desenvolver raciocínio lógico, capacidade analítica e visão sistêmica.
 
 ---
 
