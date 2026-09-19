@@ -2,9 +2,9 @@
 
 📍 Fortaleza, CE - Brasil
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela Unifametro** e estou direcionando minha carreira para **Desenvolvimento Back-end**, com foco em **C#, .NET, Java, SQL Server e APIs REST**.
+Sou formado em **Análise e Desenvolvimento de Sistemas pela Unifametro** e estou direcionando minha carreira para **Desenvolvimento Back-end**, com foco em **C#, .NET, SQL Server**.
 
-Desenvolvo projetos próprios para aplicar na prática conceitos de **Programação Orientada a Objetos, banco de dados, regras de negócio, APIs, integração entre sistemas e controle de versão**.
+Desenvolvo projetos próprios para aplicar na prática conceitos de **Programação Orientada a Objetos, banco de dados, regras de negócio e controle de versão**.
 
 Minha experiência profissional anterior em automação, eletrônica, redes e suporte técnico também contribuiu para desenvolver raciocínio lógico, capacidade analítica e visão sistêmica.
 
@@ -16,8 +16,6 @@ Minha experiência profissional anterior em automação, eletrônica, redes e su
 
 - C#
 - .NET
-- Java
-- APIs REST
 - Programação Orientada a Objetos
 
 ### Banco de Dados
@@ -38,7 +36,6 @@ Minha experiência profissional anterior em automação, eletrônica, redes e su
 
 - HTML5
 - CSS3
-- JavaScript
 
 ---
 
@@ -95,14 +92,13 @@ Simulação de infraestrutura corporativa Matriz-Filiais, envolvendo topologia, 
 - Desenvolvendo aplicações back-end;
 - Aplicando POO em projetos práticos;
 - Trabalhando com SQL Server e modelagem de dados;
-- Estudando desenvolvimento e integração de APIs REST;
 - Evoluindo meus projetos e documentação no GitHub.
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Busco minha **primeira oportunidade profissional como Desenvolvedor Back-end Júnior**, com foco em **C#/.NET ou Java**.
+Busco minha **primeira oportunidade profissional como Desenvolvedor Back-end Júnior**, com foco em **C#/.NET**.
 
 ---
 
